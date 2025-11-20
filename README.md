@@ -1,2 +1,8 @@
-# GIT-
-GIT 명령어 시릅
+# GIT 명령어 실습
+- ADD
+- COMMIT
+- PUSH
+- MERGE
+- RESET
+- TAG
+- REVERT
