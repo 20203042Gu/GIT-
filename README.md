@@ -1,10 +1,10 @@
 # GIT 명령어 실습
-- ADD
-- COMMIT
-- PUSH
-- MERGE
+- ADD (DONE)
+- COMMIT (DONE)
+- PUSH (DONE)
+- MERGE (DONE)
 - RESET
-- TAG
+- TAG (DONE)
 - REVERT
 
 > practice 3: MERGE
