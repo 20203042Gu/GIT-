@@ -6,3 +6,5 @@
 - RESET
 - TAG
 - REVERT
+
+> practice 3: MERGE
